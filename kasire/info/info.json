@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "app": "Kasire",
+  "last_updated": "2026-11-07",
+  "messages": [
+    {
+      "id": "github-test",
+      "type": "promo",
+      "text": "Testing GitHub",
+      "active": true
+    }
+  ]
+}
